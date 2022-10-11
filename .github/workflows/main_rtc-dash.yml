@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'rtc-dash'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A38A7CE9CA8B480C8EEDCF9497E5A37C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_51AE76D52C80420DA6CBC89976428EE4 }}
           package: .
